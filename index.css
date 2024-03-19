@@ -1,0 +1,75 @@
+
+body{
+    scroll-behavior: smooth;
+}
+.navbar{
+    background-color: rgb(250,237,175);
+    height: 85px !important;
+    position: sticky;
+    top: 0px;
+    
+    
+   
+}
+.navbarContainer{
+    width: 80%;
+}
+.navbar-title{
+    font-family: inherit;
+    font-size: 32px;
+}
+
+.bodyTitle{
+    font-size: 106px;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+   
+   
+   
+   
+}
+.opacity{
+    opacity: 0.1;
+}
+.body{
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: rgb(250,237,175);
+    height: 450px;
+    border: solid 1px black
+}
+.bodyContent{
+    padding-left: 50px;
+    padding-top: 80px;
+    
+}
+.bodyParagraph{
+   font-weight: 500;
+   font-size: 24px;
+   line-height: 24px;
+    
+}
+.startReading{
+font-weight: 600;    
+}
+.contentNames{
+    font-weight: 500;
+    font-size: smaller;
+}
+.spans{
+    font-size: smaller;
+}
+.backgroundLinks{
+    background-color: rgb(237, 237, 237);
+    padding: 15px;
+   
+  
+}
+.stickyRow{
+    line-height: 60px;
+}
+.stickyRight{
+    position: sticky;
+    right: 280px;
+    top: 100px;
+    
+}
